@@ -1,4 +1,3 @@
 # dotfile
-Cần tải Nodejs, Git, Python
-Kiểm tra ":checkhealth"
+Need Nodejs, Git, Python
 Run :PlugInstall
