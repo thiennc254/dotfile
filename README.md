@@ -1,3 +1,8 @@
 # dotfile
-Need Nodejs, Git, Python
-Run :PlugInstall
+[Requierment]
+  NodeJS >= 12.
+  Python 2|3
+  Git
+  vim-plug
+ [note]
+ Run command :PlugInstall
