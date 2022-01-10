@@ -1,5 +1,5 @@
 # dotfile
-[Requierment]
+[Requierment]\n
   NodeJS >= 12.
   Python 2|3
   Git
